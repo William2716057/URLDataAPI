@@ -2,8 +2,6 @@
 
 echo "Enter IP: "
 read IP
-#enter IP here
-#IP="13.35.121.97"
 #API endpoint
 API_URL="http://ip-api.com/json/$IP"
 
