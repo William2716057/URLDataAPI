@@ -15,4 +15,4 @@ A Bash script that fetches and displays geolocation information for an IP addres
 2. Make script executable
 3. Run the script
 4. Enter IP address when prompted
-5. 
+5. The script will output the geolocation information of the provided IP address.
