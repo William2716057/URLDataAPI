@@ -1,8 +1,8 @@
 #!/bin/bash
 
+IP="13.35.121.97"
 #API endpoint
-#API_URL="http://ip-api.com/json/"
-API_URL="http://ip-api.com/json/208.95.112.1"
+API_URL="http://ip-api.com/json/$IP"
 
 #Fetch geolocation data
 RESPONSE=$(curl -s $API_URL)
